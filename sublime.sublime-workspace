@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ace",
+				"accelerationIncludingGravity"
+			],
+			[
+				"ac",
+				"accelerationIncludingGravity"
+			],
+			[
+				"canUseDe",
+				"canUseDeviceMotion"
+			],
+			[
+				"hasD",
+				"hasDeviceOrientation"
+			],
+			[
+				"pM",
+				"pMatrixUniform"
+			],
+			[
+				"fra",
+				"fragment"
+			],
+			[
+				"att",
+				"attachShader"
+			],
+			[
+				"constr",
+				"constraintName"
+			],
+			[
+				"nav",
+				"navigatorUserMediaError"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Code Repositories/mystery-robot-joe"
+	],
+	"file_history":
+	[
+		"/E/Code Repositories/Quiet-Raccoon-Training/package.json",
+		"/E/Code Repositories/mystery-robot-joe/experiments/radio-frequency/readme.md",
+		"/E/Code Repositories/mystery-robot-joe/experiments/radio-frequency/readme.md.txt",
+		"/E/Code Repositories/Quiet-Raccoon-Training/.travis.yml",
+		"/E/Code Repositories/Quiet-Raccoon-Training/README.md",
+		"/E/Code Repositories/Quiet-Raccoon-Training/bower.json",
+		"/E/Code Repositories/quiet-raccoon-training/gulp_tasks/build.js",
+		"/E/Code Repositories/quiet-raccoon-training/gulp_tasks/test.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/gulp_tasks/buildHtml.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/gulp_tasks/buildJs.js",
+		"/E/Code Repositories/quiet-raccoon-training/gulp_tasks/host.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/gulp_tasks/qa.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/src/apps/sample/logic.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/gulp_tasks/zip.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/gulp_tasks/release.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/gulpfile.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/.gitignore",
+		"/E/Code Repositories/Quiet-Raccoon-Training/gulp_tasks/hello.js",
+		"/E/Code Repositories/quiet-raccoon-training/gulp_tasks/buildHtml.js",
+		"/E/Code Repositories/quiet-raccoon-training/src/apps/sample/logic-spec.js",
+		"/E/Code Repositories/quiet-raccoon-training/.travis.yml",
+		"/E/Code Repositories/quiet-raccoon-training/.jshintrc",
+		"/E/Code Repositories/Quiet-Raccoon-Training/dist/quiet-raccoon-training.min.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/.gitattributes",
+		"/E/Code Repositories/Quiet-Raccoon-Training/dist/apps/sample/view.html",
+		"/E/Code Repositories/Quiet-Raccoon-Training/dist/index.html",
+		"/E/Code Repositories/Quiet-Raccoon-Training/src/apps/sample/view.html",
+		"/E/Code Repositories/quiet-raccoon-training/src/apps/sample/view.html",
+		"/E/Code Repositories/Quiet-Raccoon-Training/src/index.html",
+		"/E/Code Repositories/quiet-raccoon-training/src/assets/xxx/index.html",
+		"/E/Code Repositories/quiet-raccoon-training/src/templates/hello.html",
+		"/E/Code Repositories/Quiet-Raccoon-Training/src/assets/index.html",
+		"/E/Code Repositories/Quiet-Raccoon-Training/src/lib/signature.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/index.html",
+		"/E/Code Repositories/quiet-raccoon-training/app/index.html",
+		"/E/Code Repositories/quiet-raccoon-training/app/test.html",
+		"/E/Code Repositories/quiet-raccoon-training/index.html",
+		"/E/Code Repositories/Quiet-Raccoon-Training/lib/signature.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/dist/quiet-raccoon-training.min.js.gz",
+		"/E/Cloud Storage/Dropbox/Public/quiet-raccoon-training/index.html",
+		"/E/Code Repositories/quiet-raccoon-training/lib/test.js",
+		"/E/Code Repositories/quiet-raccoon-training/lib/raw-sample.js",
+		"/E/Code Repositories/Quiet-Raccoon-Training/dist/raw-script-min.js",
+		"/E/Code Repositories/quiet-raccoon-training/gulpfile.js",
+		"/E/Code Repositories/quiet-raccoon-training/src/index.html",
+		"/E/Code Repositories/quiet-raccoon-training/src/app/app.module.js",
+		"/E/Code Repositories/quiet-raccoon-training/src/app/app.routes.js",
+		"/C/Users/Lewis Moten/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Lewis Moten/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Code Repositories/quiet-raccoon-training/README.md",
+		"/E/Code Repositories/quiet-raccoon-training/authors.md",
+		"/E/Code Repositories/device-orientation/index.html",
+		"/E/Code Repositories/device-orientation/device-orientation.js",
+		"/E/Code Repositories/web-gl/index.html",
+		"/E/Code Repositories/web-gl/web-gl.js",
+		"/E/Code Repositories/web-gl/glMatrix-0.9.5.js",
+		"/E/Code Repositories/web-gl/glMatrix-0.9.5.min.js",
+		"/E/Code Repositories/Frisky-Bomberman-Live/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"patch",
+			"file",
+			"key",
+			"sourceJs",
+			"htmlmin",
+			"htmlreplace",
+			"incrimentVersion",
+			"registerTask",
+			"task",
+			"showTaskList",
+			"value",
+			"document",
+			"orientation",
+			"alpha",
+			"acceleration",
+			"data.",
+			"buffers",
+			"drawFaces",
+			"drawBuffer",
+			"pMatrixUniform",
+			"aVertexPosition",
+			"setMatrixUniforms",
+			"mvMatrixUniform",
+			"pMatrixUniform",
+			"aVertexPosition",
+			"shape",
+			"navigatorUserMediaError"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
