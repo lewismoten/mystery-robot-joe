@@ -2,11 +2,9 @@
 
 ## Goals
 
-The goal is to build a complex robot, made up of many simple project.
+The goal is to build a complex robot, made up of many simple projects.
 
-Projects are:
-
-1. Functional - Can be used as-is. Rather than little experiments, these projects can be used in every-day life.
+1. Functional - Can be used as-is rather than little experiments, these projects can be used in every-day life.
 1. Kit friendly - Each project will have a breadboard, schematic and PCB layout along with instructions.
 1. Accessible - Parts can be found off the shelf, or are easily obtainable. Nothing is a rare hard-to-find part. Ideally inexpensive as well.
 1. Customizable - Make the end project look any way you like. This can be as simple as painting a project box, picking out an LED color, or arraning parts in a different way.
@@ -44,7 +42,7 @@ The end result will be a robot with the following features
   1. Detect obstacles at a distance (Sonar & Stepper)
   1. Talk (Speech Chip)
   1. Express emotion / talking (LED's)
-1. Movement:
+1. Feet Movement:
 	1. Turn left/right (DC Motors)
 	1. File storage (SD Card)
 	1. Detect obstacles (IR)
@@ -58,4 +56,12 @@ The end result will be a robot with the following features
 	1. Displays Status (LCD Screen)
 	1. Buttons (Keypad Matrix Array)
 	1. Main CPU
-
+1. Controller
+	1. Move Forward
+	1. Move Backward
+	1. Turn Left
+	1. Turn Right
+	1. Toggle move between head/feet
+	1. Play sound
+	1. Autonomous Mode
+	1. Toggle lights
